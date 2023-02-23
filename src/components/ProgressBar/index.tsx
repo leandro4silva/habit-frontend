@@ -1,5 +1,4 @@
 import * as Progress from '@radix-ui/react-progress';
-import { useState, useEffect } from 'react';
 
 interface ProgressBarProps{
     progress: number
